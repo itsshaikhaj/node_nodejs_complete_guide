@@ -1,17 +1,20 @@
 [
   {
+    "id" : "asdfghjkl",
     "title": "A Book",
     "imageUrl": "https://macmillan-dam.captureweb.co.uk/cdn/macmillan/previews/439664/d2600cec4c0f09bf8e6187a83a066343/0/14665546cf5662d409143d004ffc0c54/131898933.jpg",
     "description": "20.99",
     "price": "An awesome book"
   },
   {
+    "id" : "asdfghjkl234",
     "title": "B Book",
     "imageUrl": "https://macmillan-dam.captureweb.co.uk/cdn/macmillan/previews/439664/d2600cec4c0f09bf8e6187a83a066343/0/14665546cf5662d409143d004ffc0c54/131898933.jpg",
     "description": "11.11",
     "price": "afafafa"
   },
   {
+    "id" : "asdfghjkl345",
     "title": "C Book",
     "imageUrl": "https://macmillan-dam.captureweb.co.uk/cdn/macmillan/previews/439664/d2600cec4c0f09bf8e6187a83a066343/0/14665546cf5662d409143d004ffc0c54/131898933.jpg",
     "description": "afaf fsfa ffdf dffdf ",
